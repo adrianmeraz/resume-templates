@@ -1,0 +1,11 @@
+Subject: SO ID: $so_id
+
+Hi $first_name,
+
+I saw SO $so_id, and it looked like an interesting opportunity.
+
+Is this a full remote position? Please let me know.
+
+I have already applied to it, but wanted to reach out to you to see what the next steps are.
+
+Attached is my resume.
